@@ -1,0 +1,162 @@
+.userdata
+{
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+h1	
+{	display: none !important;}
+	
+h2
+{ text-align: center !important;
+}
+
+.icons
+{ display: none !important;
+}
+
+p {margin-left: 5% !important;
+}
+
+.article-info
+{margin: 5% !important;
+}
+
+.breadcrumb
+{ margin: 5% !important;
+}
+
+.nav
+{ display: block !important;
+margin-left: 30% !important;
+}
+
+.form-inline
+{margin-left: 25% !important;
+}
+.btn-primary
+{margin-left: 25% !important;
+margin-bottom:5% !important;
+}
+.custom
+{
+	margin-left:5% !important;
+margin-top:2.5% !important;
+margin-bottom:2.5% !important;
+}
+.unstyled
+{
+list-style-type:none !important;
+}
+.userdata .unstyled
+{padding-inline-start: 0px !important;
+text-align: center !important;
+}
+.col-sm-4
+{padding-right: 0px !important;
+}
+.nav-child
+{
+list-style-type:disc !important;	
+}
+.artclock_clock
+{ display: block !important;
+margin-left: 25% !important;
+margin-top: 5% !important;
+}
+.active
+{margin-left: 1% !important;
+}
+.item-106
+{margin-bottom:7.5% !important;
+}
+.control-label
+{ 
+margin-left: 25px !important;
+position: absolute !important;
+display: block !important;
+}
+.inputbox
+{margin-top: 5% !important;
+margin-bottom: 10% !important;
+}
+.pagenav
+{display: none !important;
+}
+.login-greeting
+{margin-bottom: 5% !important;
+margin-left: 25% !important;
+}
+.logout-button
+{margin-left: 15% !important;
+}
+.page-header
+{color: #007bff !important;
+}
+.form-validate{
+	margin-left: 10% !important;
+	text-align: center !important;
+}
+#jform_name-lbl
+{display: none !important;
+}
+#jform_name
+{ display:none !important;
+}
+
+#jform_spacer-lbl
+{display: none !important;
+}
+#jform_username-lbl
+{margin-top: 20% !important;
+}
+#jform_username
+{margin-top: 2% !important;
+margin-left:66% !important;
+}
+.validate
+{
+	margin-right: 15% !important;
+	margin-top:5% !important;
+}
+#jform_password1
+{margin-top: 2% !important;
+margin-left:66% !important;
+}
+#jform_password2
+{margin-top: 2% !important;
+margin-left:66% !important;
+}
+#jform_email1
+{margin-top: 2% !important;
+margin-left:66% !important;
+}
+#jform_email2
+{margin-top: 2% !important;
+margin-left:66% !important;
+}
+#jform_password1-lbl
+{margin-top: 20% !important;
+}
+#jform_password2-lbl
+{margin-top: 10% !important;
+}
+#jform_email1-lbl
+{margin-top: 7.5% !important;
+}
+#jform_email2-lbl
+{margin-top: 5% !important;
+}
+.validate-email
+{
+width: 66% !important;
+margin-left: 33% !important;
+}
+.validate-username
+{
+	width: 66% !important;
+margin-left: 33% !important;
+}
+.item-101
+{margin-left: 1.25% !important;
+}
