@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1" client="site" method="upgrade">
+	<name>mod_out_articles</name>
+	<author>Joomla! Project</author>
+	<creationDate>December 17</creationDate>
+	<copyright>Copyright (C) 2005 - 2019 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>3.0.0</version>
+	<description>MOD_OUT_Category_ARTICLES_XML_DESCRIPTION</description>
+	<files>
+		<filename module="mod_out_articles">mod_out_articles.php</filename>
+	</files>
+	<languages>
+		<language tag="ru-RU">language/ru-RU/ru-RU.mod_out_articles.ini</language>
+		<language tag="ru-RU">language/ru-RU/ru-RU.mod_out_articles.sys.ini</language>
+	</languages>
+
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+			</fieldset>
+			<fieldset name="advanced">
+						<field
+					name="text_mod"
+					type="list"
+					label="MOD_OUT_ARTICLES_FIELD_text_mod_LABEL"
+					description="MOD_OUT_ARTICLES_FIELD_text_mod_DESC"
+					default=""
+					>
+					<option value="">---</option>
+					<option value="1">C большой буквы</option>
+					<option value="2">Прописные</option>
+					<option value="3">Строчные буквы</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>
